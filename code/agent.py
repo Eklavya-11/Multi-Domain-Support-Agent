@@ -2,7 +2,6 @@
 Core triage agent — orchestrates retrieval → LLM reasoning → structured output
 for every support ticket.  Uses Groq (Llama 3.3 70B) for the LLM.
 """
-
 from __future__ import annotations
 
 import json
