@@ -4,7 +4,7 @@ A RAG-based AI agent that triages customer support tickets across **HackerRank**
 
 ![workflow](/asset/programWorkflow.png)
 
-> This was the problem statement given for Hackerrank's orchestrate contest May26
+> This is my submission for problem statement given for Hackerrank's orchestrate contest May26
 
 ### Key Design Decisions
 
